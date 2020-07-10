@@ -10,3 +10,10 @@ use this commands "cd ~/Documents/wallE_ws/src/" , "git clone https://github.com
  
 TurtleBot3 simulation Using RViz:  
 use this command for Launch the simulation robot "roslaunch turtlebot3_fake turtlebot3_fake.launch" and move TurtleBot3 around the screen by this line "roslaunch turtlebot3_teleop turtlebot3_teleop_key.launch"
+
+References:
+https://automaticaddison.com/how-to-launch-the-turtlebot3-simulation-with-ros/
+
+https://emanual.robotis.com/docs/en/platform/turtlebot3/pc_setup/
+
+https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/
